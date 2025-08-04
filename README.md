@@ -1,9 +1,10 @@
-# 🧹 Data Cleaning Summary: Medical Appointment No Show Dataset
+# 🧹 Data Cleaning and Preprocessing Summary: Medical Appointment No Show Dataset
 
 ## 📂 Cleaned Dataset
+
 **Filename(s):**
-- `Medical_Appointment_NoShow_Cleaned.xlsx`
-- `Medical_Appointment_NoShow_Cleaned_WithExtras.xlsx`
+- `Medical_Appointment_Cleaned.csv`
+- `medical_appointment_no_shows_csv`
 
 These files represent the raw dataset after cleaning and minor preprocessing using **Microsoft Excel**.
 
@@ -25,30 +26,4 @@ These files represent the raw dataset after cleaning and minor preprocessing usi
 
 ---
 
-## 📌 Notes
-- Two cleaned versions are saved:
-  - One with only cleaned original fields.
-  - Another with **additional derived columns** like `Scheduled_Date`, `Appointment_Time`, and `Age_Group`.
-- Data cleaning was performed using **Microsoft Excel 2016+** with filters, formulas, and formatting tools.
 
----
-
-## 📁 Files Included
-- `Medical_Appointment_NoShow_Cleaned.xlsx`
-- `Medical_Appointment_NoShow_Cleaned_WithExtras.xlsx`
-- `README.md` (this file)
-
----
-
-## 📈 Next Steps (Optional)
-You can now perform:
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Predictive Modeling (No-show prediction)
-
----
-
-## 👩‍💻 Author
-**Geetha V**  
-M.Sc. Computer Science  
-Aspiring Data Analyst  
