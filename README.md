@@ -4,7 +4,7 @@ This project focuses on cleaning and preparing the **Medical Appointment No Show
 
 ---
 
-📂 **Project Files**
+## 📂 Project Files
 
 - `medical_appointment_no_shows.csv` – Raw dataset with original records  
 - `Medical_Appointment_Cleaned.csv` – Cleaned and preprocessed dataset ready for analysis  
