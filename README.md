@@ -67,12 +67,5 @@ The cleaned dataset ensures accurate and reliable results for any downstream dat
 
 ---
 
-
-
-
-
-
-
-
-
-
+## 📬 Connect with me on LinkedIn:
+- <a href="https://www.linkedin.com/in/geetha-venkatesan2205/">👉 LinkedIn Profile</a>
