@@ -1,6 +1,8 @@
 # 🧹 Data Cleaning and Preprocessing Summary: Medical Appointment No Show Dataset
 
-## 📂 Cleaned Dataset
+This project focuses on cleaning and preparing the **Medical Appointment No Show** dataset for analysis. The dataset records patient appointment details and whether they attended or missed their appointment.
+
+---
 
 📂 **Project Files**
 
